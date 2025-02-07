@@ -7,7 +7,7 @@
 }
 
 body {
-    background-color: #da7de9;
+    background-color: #cfdfe1;
     color: #000000ee;
     display: flex;
     margin: 20px;
@@ -42,7 +42,7 @@ fieldset{
     border-radius: 8px;
     padding: 20px;
     margin-bottom: 20px;
-    background-color: #b4f5a6;
+    background-color: #86bfff;
 }
 
 legend{
@@ -73,7 +73,7 @@ input, textarea {
 }
 
 #generate {
-    background-color: #74ca74;
+    background-color: #83dbe0;
     color: #e5edf8;
     padding: 10px;
     border: none;
